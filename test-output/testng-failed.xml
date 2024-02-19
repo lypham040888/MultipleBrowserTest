@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Regression Test All class on chrome(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="test.Day12_Checkbox_Dropdowlist_Radio">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="doPracticeDropdownlist"/>
+          <include name="afterTest"/>
+        </methods>
+      </class> <!-- test.Day12_Checkbox_Dropdowlist_Radio -->
+    </classes>
+  </test> <!-- Regression Test All class on chrome(failed) -->
+</suite> <!-- Failed suite [Suite] -->

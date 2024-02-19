@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-19T20:15:13 ICT" name="Suite" finished-at="2024-02-19T20:18:11 ICT" duration-ms="177666">
+    <groups>
+    </groups>
+    <test started-at="2024-02-19T20:15:13 ICT" name="Regression Test All class on firefox" finished-at="2024-02-19T20:16:28 ICT" duration-ms="74298">
+      <class name="test.Day12_Checkbox_Dropdowlist_Radio">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:test.Day12_Checkbox_Dropdowlist_Radio@f0da945]" started-at="2024-02-19T20:15:13 ICT" name="beforeTest" finished-at="2024-02-19T20:15:26 ICT" duration-ms="13109" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="doPracticeCheckbox()[pri:0, instance:test.Day12_Checkbox_Dropdowlist_Radio@f0da945]" started-at="2024-02-19T20:15:26 ICT" name="doPracticeCheckbox" finished-at="2024-02-19T20:15:44 ICT" duration-ms="17955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doPracticeCheckbox -->
+        <test-method signature="doPracticeDropdownlist()[pri:0, instance:test.Day12_Checkbox_Dropdowlist_Radio@f0da945]" started-at="2024-02-19T20:15:44 ICT" name="doPracticeDropdownlist" finished-at="2024-02-19T20:15:58 ICT" duration-ms="13407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doPracticeDropdownlist -->
+        <test-method signature="doPracticeRadio()[pri:0, instance:test.Day12_Checkbox_Dropdowlist_Radio@f0da945]" started-at="2024-02-19T20:15:58 ICT" name="doPracticeRadio" finished-at="2024-02-19T20:16:10 ICT" duration-ms="11726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doPracticeRadio -->
+        <test-method signature="doPracticeSelectDropdownlist()[pri:0, instance:test.Day12_Checkbox_Dropdowlist_Radio@f0da945]" started-at="2024-02-19T20:16:10 ICT" name="doPracticeSelectDropdownlist" finished-at="2024-02-19T20:16:25 ICT" duration-ms="15941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doPracticeSelectDropdownlist -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:test.Day12_Checkbox_Dropdowlist_Radio@f0da945]" started-at="2024-02-19T20:16:25 ICT" name="afterTest" finished-at="2024-02-19T20:16:28 ICT" duration-ms="2084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.Day12_Checkbox_Dropdowlist_Radio -->
+    </test> <!-- Regression Test All class on firefox -->
+    <test started-at="2024-02-19T20:16:28 ICT" name="Regression Test Page Factory class on firefox" finished-at="2024-02-19T20:16:49 ICT" duration-ms="21125">
+      <class name="test.Bai14PageFactory">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:test.Bai14PageFactory@5824a83d]" started-at="2024-02-19T20:16:28 ICT" name="beforeTest" finished-at="2024-02-19T20:16:42 ICT" duration-ms="14508" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.Bai14PageFactory@5824a83d]" started-at="2024-02-19T20:16:42 ICT" name="beforeMethod" finished-at="2024-02-19T20:16:42 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC01_LoginSuccess()[pri:0, instance:test.Bai14PageFactory@5824a83d]" started-at="2024-02-19T20:16:42 ICT" name="TC01_LoginSuccess" finished-at="2024-02-19T20:16:47 ICT" duration-ms="4790" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginSuccess -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.Bai14PageFactory@5824a83d]" started-at="2024-02-19T20:16:47 ICT" name="beforeMethod" finished-at="2024-02-19T20:16:47 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC02_LoginFailed_IncorrectPassword()[pri:0, instance:test.Bai14PageFactory@5824a83d]" started-at="2024-02-19T20:16:47 ICT" name="TC02_LoginFailed_IncorrectPassword" finished-at="2024-02-19T20:16:47 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_LoginFailed_IncorrectPassword -->
+        <test-method signature="TC03_LoginFailed_IncorrectUser()[pri:0, instance:test.Bai14PageFactory@5824a83d]" started-at="2024-02-19T20:16:47 ICT" name="TC03_LoginFailed_IncorrectUser" finished-at="2024-02-19T20:16:47 ICT" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_LoginFailed_IncorrectUser -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.Bai14PageFactory@5824a83d]" started-at="2024-02-19T20:16:47 ICT" name="beforeMethod" finished-at="2024-02-19T20:16:47 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.Bai14PageFactory@5824a83d]" started-at="2024-02-19T20:16:47 ICT" name="afterMethod" finished-at="2024-02-19T20:16:49 ICT" duration-ms="1816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:test.Bai14PageFactory@5824a83d]" started-at="2024-02-19T20:16:49 ICT" name="afterTest" finished-at="2024-02-19T20:16:49 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.Bai14PageFactory -->
+    </test> <!-- Regression Test Page Factory class on firefox -->
+    <test started-at="2024-02-19T20:16:49 ICT" name="Regression Test All class on edge" finished-at="2024-02-19T20:18:11 ICT" duration-ms="82060">
+      <class name="test.Day12_Checkbox_Dropdowlist_Radio">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:test.Day12_Checkbox_Dropdowlist_Radio@4686afc2]" started-at="2024-02-19T20:16:56 ICT" name="beforeTest" finished-at="2024-02-19T20:17:04 ICT" duration-ms="7552" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="doPracticeCheckbox()[pri:0, instance:test.Day12_Checkbox_Dropdowlist_Radio@4686afc2]" started-at="2024-02-19T20:17:04 ICT" name="doPracticeCheckbox" finished-at="2024-02-19T20:17:22 ICT" duration-ms="17849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doPracticeCheckbox -->
+        <test-method signature="doPracticeDropdownlist()[pri:0, instance:test.Day12_Checkbox_Dropdowlist_Radio@4686afc2]" started-at="2024-02-19T20:17:22 ICT" name="doPracticeDropdownlist" finished-at="2024-02-19T20:17:36 ICT" duration-ms="13787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doPracticeDropdownlist -->
+        <test-method signature="doPracticeRadio()[pri:0, instance:test.Day12_Checkbox_Dropdowlist_Radio@4686afc2]" started-at="2024-02-19T20:17:36 ICT" name="doPracticeRadio" finished-at="2024-02-19T20:17:48 ICT" duration-ms="12315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doPracticeRadio -->
+        <test-method signature="doPracticeSelectDropdownlist()[pri:0, instance:test.Day12_Checkbox_Dropdowlist_Radio@4686afc2]" started-at="2024-02-19T20:17:48 ICT" name="doPracticeSelectDropdownlist" finished-at="2024-02-19T20:18:03 ICT" duration-ms="15391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doPracticeSelectDropdownlist -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:test.Day12_Checkbox_Dropdowlist_Radio@4686afc2]" started-at="2024-02-19T20:18:11 ICT" name="afterTest" finished-at="2024-02-19T20:18:11 ICT" duration-ms="407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.Day12_Checkbox_Dropdowlist_Radio -->
+      <class name="test.Bai14PageFactory">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:test.Bai14PageFactory@1e0b4072]" started-at="2024-02-19T20:16:49 ICT" name="beforeTest" finished-at="2024-02-19T20:16:56 ICT" duration-ms="7433" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.Bai14PageFactory@1e0b4072]" started-at="2024-02-19T20:18:03 ICT" name="beforeMethod" finished-at="2024-02-19T20:18:03 ICT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC01_LoginSuccess()[pri:0, instance:test.Bai14PageFactory@1e0b4072]" started-at="2024-02-19T20:18:03 ICT" name="TC01_LoginSuccess" finished-at="2024-02-19T20:18:10 ICT" duration-ms="6499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_LoginSuccess -->
+        <test-method signature="TC02_LoginFailed_IncorrectPassword()[pri:0, instance:test.Bai14PageFactory@1e0b4072]" started-at="2024-02-19T20:18:10 ICT" name="TC02_LoginFailed_IncorrectPassword" finished-at="2024-02-19T20:18:10 ICT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_LoginFailed_IncorrectPassword -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.Bai14PageFactory@1e0b4072]" started-at="2024-02-19T20:18:10 ICT" name="beforeMethod" finished-at="2024-02-19T20:18:10 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:test.Bai14PageFactory@1e0b4072]" started-at="2024-02-19T20:18:10 ICT" name="beforeMethod" finished-at="2024-02-19T20:18:10 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TC03_LoginFailed_IncorrectUser()[pri:0, instance:test.Bai14PageFactory@1e0b4072]" started-at="2024-02-19T20:18:10 ICT" name="TC03_LoginFailed_IncorrectUser" finished-at="2024-02-19T20:18:10 ICT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_LoginFailed_IncorrectUser -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:test.Bai14PageFactory@1e0b4072]" started-at="2024-02-19T20:18:10 ICT" name="afterMethod" finished-at="2024-02-19T20:18:11 ICT" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:test.Bai14PageFactory@1e0b4072]" started-at="2024-02-19T20:18:11 ICT" name="afterTest" finished-at="2024-02-19T20:18:11 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.Bai14PageFactory -->
+    </test> <!-- Regression Test All class on edge -->
+  </suite> <!-- Suite -->
+</testng-results>
